@@ -1,7 +1,7 @@
  
 <h1 align="center">Hi there, I am Bilgehan Kalay 👋</h1>
-
-
+- 🌱 I’m currently learning  
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/bilgehankalay/" target="_blank">Bilgehan Kalay</a>
 
 [![Afkborn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afkborn&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
@@ -10,7 +10,7 @@ Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
