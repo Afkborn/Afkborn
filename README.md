@@ -1,10 +1,7 @@
-<h1 align="center">Hi there 👋, I am Bilgehan 😊</h1>
+<h2 align="center">Hi there 👋, I am Bilgehan 😊</h2>
 
 <br/>
 
----
-
-<br/>
 
 <img align="right" height="250" alt="guy" width="350" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" /> </a>
 
