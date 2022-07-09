@@ -44,5 +44,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afkborn&theme=tokyonight" width="37%" alt="Afkborn's Top Languages">
 
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
