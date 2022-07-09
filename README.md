@@ -1,5 +1,19 @@
 <h1 align="center">Hi there 👋, I am Bilgehan 😊</h1>
+[![Afkborn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afkborn&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+**Afkborn/Afkborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning: <strong>Kotlin, JavaScript</strong>
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <br/>
 
 ---
@@ -25,25 +39,10 @@
 
 <h2 align="left">How to reach me</h2>
 <p align="center">
-	<a href="mailto:kalaybilgehan60@gmail.com"><img src="https://img.icons8.com/color/344/whatsapp--v1.png"  width="40" height="40" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/bilgehankalay/"><img src="https://img.icons8.com/fluency/344/linkedin.png"  width="40" height="40" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/Afkborn26"><img src="https://img.icons8.com/color/344/twitter--v1.png"  width="40" height="40" alt="Twitter"/></a>
-	<a href="https://www.instagram.com/afkborn/"><img src="https://img.icons8.com/fluency/344/instagram-new.png"  width="40" height="40" alt="Instagram"/></a>
-	<a href="https://wa.me/+905061529740"><img src="https://img.icons8.com/color/344/whatsapp--v1.png"  width="40" height="40" alt="Whatsapp"/></a>
+	<a href="mailto:kalaybilgehan60@gmail.com"><img src="https://img.icons8.com/color/344/whatsapp--v1.png"  width="80" height="80" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/bilgehankalay/"><img src="https://img.icons8.com/fluency/344/linkedin.png" width="80" height="80" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/Afkborn26"><img src="https://img.icons8.com/color/344/twitter--v1.png" width="80" height="80" alt="Twitter"/></a>
+	<a href="https://www.instagram.com/afkborn/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" width="80" height="80" alt="Instagram"/></a>
+	<a href="https://wa.me/+905061529740"><img src="https://img.icons8.com/color/344/whatsapp--v1.png"  width="80" height="80" alt="Whatsapp"/></a>
 </p>
 
-[![Afkborn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afkborn&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Afkborn/Afkborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: <strong>Kotlin, JavaScript</strong>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
