@@ -29,21 +29,10 @@
 	<a href="https://wa.me/+905061529740"><img src="https://img.icons8.com/color/344/whatsapp--v1.png"  width="80" height="80" alt="Whatsapp"/></a>
 </p>
 
-[![Afkborn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afkborn&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Afkborn/Afkborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Hi there 👋
-Here are some ideas to get you started:
+### :zap: Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: <strong>Kotlin, JavaScript</strong>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=afkborn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="nihadenes's Github Stats" width="60%">
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afkborn&theme=tokyonight" width="37%" alt="Afkborn's Top Languages">
 
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
