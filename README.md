@@ -36,3 +36,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afkborn&theme=tokyonight" width="37%" alt="Afkborn's Top Languages">
 
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+
+<p align="center"> 
+	<h4 align="center">Visitor's count :eyes:</h4> 
+	<p align="center"><img src="https://profile-counter.glitch.me/{afkborn}/count.svg" alt="afkborn :: Visitor's Count" /></p>
+</p>
