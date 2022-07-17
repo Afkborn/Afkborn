@@ -22,7 +22,7 @@
 
 <h2 align="left">How to reach me</h2>
 <p align="center">
-	<a href="mailto:kalaybilgehan60@gmail.com"><img src="https://img.icons8.com/color/344/whatsapp--v1.png"  width="80" height="80" alt="Gmail"/></a>
+	<a href="mailto:kalaybilgehan60@gmail.com"><img src="https://img.icons8.com/fluency/344/gmail-new.png"  width="80" height="80" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/bilgehankalay/"><img src="https://img.icons8.com/fluency/344/linkedin.png" width="80" height="80" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/Afkborn26"><img src="https://img.icons8.com/color/344/twitter--v1.png" width="80" height="80" alt="Twitter"/></a>
 	<a href="https://www.instagram.com/afkborn/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" width="80" height="80" alt="Instagram"/></a>
