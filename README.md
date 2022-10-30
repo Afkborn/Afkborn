@@ -8,8 +8,8 @@
 <h2 align="left">👨‍💻 Who Am I?</h2>
 <ul>
   <li>I'm a tech-savvy software developer</li>
-  <li>Actively working on Python</li>
-  <li>Also works with Kotlin,JavaScript, C++ programming languages.</li>
+  <li>Actively working on React, JavaScript</li>
+  <li>Also works with Kotlin,Python, C++ programming languages.</li>
   <li>Volunteer member of 'Google Development Group Eskisehir'</li>
 </ul>
 
